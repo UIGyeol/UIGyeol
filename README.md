@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1000&width=435&lines=UI+Gyeol+Kim)](https://git.io/typing-svg)
 - 🔭 I'm learning Java,C,Python
 
-- 🌱 Interested in Network Security
-
+- 🌱 Interested in Network Security and Drone Security
 - ⚡ Fun fact: 🥟 LoVe ManDu🥟
 
 
