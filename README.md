@@ -14,5 +14,5 @@
 
 
 
-![UIGyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![UIGyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=UIGyeol&show_icons=true&theme=radical)
 
