@@ -1,6 +1,7 @@
 ## 👋Hello~
 <div align="center">
-![Sprite-0001](https://github.com/user-attachments/assets/7356ca13-2805-452f-a390-6d734d1d6246)
+
+  ![Sprite-0001](https://github.com/user-attachments/assets/7356ca13-2805-452f-a390-6d734d1d6246)
 
 
 - 🔭 I'm learning Java,C,Python
