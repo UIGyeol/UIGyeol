@@ -1,11 +1,12 @@
 ## 👋Hello~
+
 <div align="center">
-![Sprite-0001](https://github.com/user-attachments/assets/e2d53889-9c91-48ef-bdac-a66e4bfcd0e8)
+
+![Sprite-0001](https://github.com/user-attachments/assets/a0c54542-4f82-41b6-a82d-dfefe28083ef)
 
   
 
-<div align="left">![Uploading Sprite-0001.gif…]()
-
+<div align="left">
 - 🔭 I'm learning Java,C,Python
 
 - 🌱 Interested in Network Security and Drone Security
