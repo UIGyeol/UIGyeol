@@ -1,6 +1,6 @@
 ## 👋Hello~
 <div align="center">
-  ![Sprite-0001](https://github.com/user-attachments/assets/e2d53889-9c91-48ef-bdac-a66e4bfcd0e8)
+![Sprite-0001](https://github.com/user-attachments/assets/e2d53889-9c91-48ef-bdac-a66e4bfcd0e8)
 
   
 
