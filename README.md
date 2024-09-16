@@ -1,9 +1,11 @@
 ## 👋Hello~
 <div align="center">
+![Sprite-0001](https://github.com/user-attachments/assets/e6b5c16b-c309-4581-b53b-6a12e64fceef)
 
-  ![Sprite-0001](https://github.com/user-attachments/assets/7356ca13-2805-452f-a390-6d734d1d6246)
+  
 
-<div align="left">
+<div align="left">![Uploading Sprite-0001.gif…]()
+
 - 🔭 I'm learning Java,C,Python
 
 - 🌱 Interested in Network Security and Drone Security
