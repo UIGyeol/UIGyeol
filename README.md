@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Sprite-0001](https://github.com/user-attachments/assets/a0c54542-4f82-41b6-a82d-dfefe28083ef)
+![Sprite-0001](https://github.com/user-attachments/assets/907f24ed-1a45-40aa-b4da-6179625c4862)
+
 
   
 
