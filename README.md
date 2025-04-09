@@ -13,6 +13,7 @@
   
 - 🔭 I'm learning Java,C,Python
 - 🌱 Interested in Security field
+- 🌱 and Quantum computing
 - ⚡ Fun fact: 🥟 LoVe ManDu🥟
 
 
