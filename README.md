@@ -16,6 +16,12 @@
 - 🌱 and Quantum computing
 - ⚡ Fun fact: 🥟 LoVe ManDu🥟
 
+- Visit Me
+
+https://velog.io/@super_rabbit/posts
+
+https://uigyeol.github.io/
+
 - 📖 My studies 📖
 
 📕An Analysis of the Preparation for Cyberwarfare in South Korea, Focusing on the Analysis of Notpetya
