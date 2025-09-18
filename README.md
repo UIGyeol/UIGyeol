@@ -16,11 +16,7 @@
 - 🌱 and Quantum computing
 - ⚡ Fun fact: 🥟 LoVe ManDu🥟
 
-- Visit Me
 
-https://velog.io/@super_rabbit/posts
-
-https://uigyeol.github.io/
 
 - 📖 My studies 📖
 
